@@ -1,2 +1,2 @@
 # JavaProjects
-List of Java work
+List of Java work from University, side projects, and code challenges.
